@@ -7,7 +7,7 @@ import 'dart:async';
 import 'package:meta/meta.dart';
 import 'package:flutter_rust_bridge/flutter_rust_bridge.dart';
 import 'package:uuid/uuid.dart';
-import 'dart:typed _data';
+import 'dart:typed_data';
 
 import 'dart:ffi' as ffi;
 
